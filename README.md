@@ -2,6 +2,7 @@
 
 ## Quick Links
 
+- **Demo Video:** [https://drive.google.com/file/d/1A81QVtQFVsz1dHX6OsS8rKR7FvnrScx3/view?usp=sharing](https://drive.google.com/file/d/1A81QVtQFVsz1dHX6OsS8rKR7FvnrScx3/view?usp=sharing)
 - **Live Demo:** [https://food-image-recognition-menu-classification-xbqvu4ddt5cketdekzn.streamlit.app/](https://food-image-recognition-menu-classification-xbqvu4ddt5cketdekzn.streamlit.app/)
 - **Main App:** [app/streamlit_app.py](app/streamlit_app.py)
 - **Trained Model:** [models/food101_mobilenetv2_classifier.keras](models/food101_mobilenetv2_classifier.keras)
