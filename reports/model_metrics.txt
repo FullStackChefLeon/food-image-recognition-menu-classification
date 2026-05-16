@@ -1,0 +1,35 @@
+Food-101 20-Class Image Recognition Model
+=========================================
+
+Model: MobileNetV2 Transfer Learning
+Dataset: Food-101 subset
+Number of classes: 20
+Validation Accuracy: 0.8412
+
+Classification Report:
+                precision    recall  f1-score   support
+
+    fried_rice       0.88      0.90      0.89       250
+     dumplings       0.85      0.89      0.87       250
+         gyoza       0.75      0.80      0.78       250
+         sushi       0.88      0.71      0.79       250
+       sashimi       0.84      0.92      0.88       250
+         ramen       0.91      0.81      0.85       250
+           pho       0.85      0.90      0.88       250
+      pad_thai       0.92      0.92      0.92       250
+   peking_duck       0.82      0.80      0.81       250
+        samosa       0.78      0.81      0.79       250
+  spring_rolls       0.79      0.77      0.78       250
+         pizza       0.92      0.96      0.94       250
+     hamburger       0.88      0.86      0.87       250
+         steak       0.78      0.79      0.78       250
+fish_and_chips       0.80      0.85      0.82       250
+grilled_salmon       0.76      0.71      0.74       250
+  caesar_salad       0.87      0.89      0.88       250
+     ice_cream       0.91      0.84      0.87       250
+    cheesecake       0.84      0.86      0.85       250
+      pancakes       0.83      0.84      0.83       250
+
+      accuracy                           0.84      5000
+     macro avg       0.84      0.84      0.84      5000
+  weighted avg       0.84      0.84      0.84      5000
