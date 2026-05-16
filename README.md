@@ -11,6 +11,19 @@
 
 ---
 
+
+---
+
+## Dashboard Preview
+
+### Image Recognition Demo
+![Image Recognition Demo](reports/screenshots/image_recognition_demo.png)
+
+### Model Performance
+![Model Performance](reports/screenshots/model_performance.png)
+
+---
+
 ## 1. Project Overview
 
 This project is a deep learning-based food image recognition system using MobileNetV2 transfer learning and a 20-class subset of the Food-101 dataset.
